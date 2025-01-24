@@ -1,4 +1,4 @@
-# Cryptocurrency Investment Analysis
+# Should You Sleep or Trade Bitcoin?
 
 ## Project Overview
 
